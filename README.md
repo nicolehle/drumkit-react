@@ -3,7 +3,7 @@ Created with CodeSandbox
 A drum player with keyboard. Cliking is working as well.
 <br><br>
 
-### Vanila JS to React.js
+### Vanilla JS to React.js
 It is one of projects, building vanila JavaScript learned from WesBos course to React.js
 <br><br>
 
